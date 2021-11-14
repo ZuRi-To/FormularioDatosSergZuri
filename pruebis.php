@@ -1,5 +1,7 @@
 <form method="get" action="pruebis.php">
-    <input type="text" name="contra"  value=""/>
+    <input type="text" name="contra"  placeholder="contraseña"/>
+    <input type="number" name="num"  placeholder="número"/>
+    <input type="text" name="contra"  placeholder="contraseña"/>
 
     <input type="submit" name="Enviar" />
 </form>
