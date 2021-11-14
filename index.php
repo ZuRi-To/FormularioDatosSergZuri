@@ -1,4 +1,6 @@
+
 <?php
+//pipo
 if (false !== filter_var($_GET["validacionEmail"], FILTER_VALIDATE_EMAIL)) {
     echo 'Bien introducido';
 } else {
